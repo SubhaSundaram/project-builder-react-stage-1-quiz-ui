@@ -1,0 +1,22 @@
+.result {
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.ans {
+  margin-left: 20%;
+  background-color: white;
+  width: 800px;
+  height: 300px;
+}
+#button {
+  margin-top: 20px;
+  width: 200px;
+  height: 30px;
+  margin: 5px;
+  background-color: blue;
+}
+#res {
+  margin-top: 5%;
+}
